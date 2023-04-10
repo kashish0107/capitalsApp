@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.main-con {
+  background-color: #93c5fd;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.select-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.inner-card {
+  height: 50vh;
+  width: 50vw;
+  background-color: white;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 15px;
+}
+.drop-down {
+  width: 200px;
+  height: 50px;
+  border-radius: 6px;
+  margin-right: 20px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.para {
+  font-size: 20px;
+  margin-top: 15px;
+}
